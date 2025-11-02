@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-	  <TargetFramework>net4.5</TargetFramework>
+	<TargetFramework>net4.5</TargetFramework>
     <RootNamespace>OWASP_10_A08_software_and_data_integrity</RootNamespace>
   </PropertyGroup>
 
